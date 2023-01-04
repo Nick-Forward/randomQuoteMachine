@@ -1,4 +1,3 @@
-# randomQuoteMachine
-# randomQuoteMachine
-# randomQuoteMachine
-# randomQuoteMachine
+randomQuoteMachine project for Freecodecamp
+
+author: Nick Forward
